@@ -1,0 +1,10 @@
+.content{
+    background-color: rgb(213, 225, 238);
+}
+.file_input{
+    display: none;
+}
+.import_file{
+    cursor: pointer;
+    font-weight: bold;
+}
